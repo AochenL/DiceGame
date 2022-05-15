@@ -13,5 +13,5 @@ if(player1 > player2){
 }else if (player1 < player2){
     document.querySelector("h1").textContent = "Player2 Wins🥰!"
 }else{
-    document.querySelector("h1").textContent = "🎲Draw Again!"
+    document.querySelector("h1").textContent = "🎲Draw again!"
 }
